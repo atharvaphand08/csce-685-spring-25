@@ -1,0 +1,80 @@
+Image Path: /scratch/user/ahphand/flickr30k_images/flickr30k_images/3904607307.jpg
+Ground Truth Caption: men in white and pink gowns stand on a plaza.
+Predicted Caption: men in white and pink gowns stand on a plaza.
+--------------------------------------------------
+Image Path: /scratch/user/ahphand/flickr30k_images/flickr30k_images/2384401298.jpg
+Ground Truth Caption: a white dog and a brown dog are by a stream.
+Predicted Caption: a white dog and a brown dog are by a stream.
+--------------------------------------------------
+Image Path: /scratch/user/ahphand/flickr30k_images/flickr30k_images/503872649.jpg
+Ground Truth Caption: woman in wedding dress with a friend and basket of flowers on a street corner.
+Predicted Caption: woman in wedding dress with a friend and basket of flowers on a street corner.
+--------------------------------------------------
+Image Path: /scratch/user/ahphand/flickr30k_images/flickr30k_images/3907722043.jpg
+Ground Truth Caption: two cosplayers, one in all black, the other in all red, pretend to fight.
+Predicted Caption: two cosplayers, one in all black, the other in all red, pretend to fight.
+--------------------------------------------------
+Image Path: /scratch/user/ahphand/flickr30k_images/flickr30k_images/4811271059.jpg
+Ground Truth Caption: three girls smile and pose for the camera.
+Predicted Caption: three girls smile and pose for the camera.
+--------------------------------------------------
+Image Path: /scratch/user/ahphand/flickr30k_images/flickr30k_images/5762731952.jpg
+Ground Truth Caption: ballerina in pinkish red leotard, tutu, and fan gracefully leaps through the air on stage while small children in the background look on.
+Predicted Caption: ballerina in pinkish red leotard, tutu, and fan gracefully leaps through the air on stage while small children in the background look on.
+--------------------------------------------------
+Image Path: /scratch/user/ahphand/flickr30k_images/flickr30k_images/5821457712.jpg
+Ground Truth Caption: a boy is being covered in sand at the beach.
+Predicted Caption: a boy is being covered in sand at the beach.
+--------------------------------------------------
+Image Path: /scratch/user/ahphand/flickr30k_images/flickr30k_images/4458393364.jpg
+Ground Truth Caption: a man carrying a rope over his shoulder is walking next to the edge of the water.
+Predicted Caption: a man carrying a rope over his shoulder is walking next to the edge of the water.
+--------------------------------------------------
+Image Path: /scratch/user/ahphand/flickr30k_images/flickr30k_images/263216826.jpg
+Ground Truth Caption: two people sitting on a rock overlooking a forest.
+Predicted Caption: two people sitting on a rock overlooking a forest.
+--------------------------------------------------
+Image Path: /scratch/user/ahphand/flickr30k_images/flickr30k_images/537559285.jpg
+Ground Truth Caption: collie jumping over a training hurdle that is on the grass.
+Predicted Caption: collie jumping over a training hurdle that is on the grass.
+--------------------------------------------------
+Image Path: /scratch/user/ahphand/flickr30k_images/flickr30k_images/4315350257.jpg
+Ground Truth Caption: a lady is standing in a crowd and is wearing a blue shirt.
+Predicted Caption: a lady is standing in a crowd and is wearing a blue shirt.
+--------------------------------------------------
+Image Path: /scratch/user/ahphand/flickr30k_images/flickr30k_images/5326364547.jpg
+Ground Truth Caption: three men are standing in a police boat with many rocks behind them.
+Predicted Caption: three men are standing in a police boat with many rocks behind them.
+--------------------------------------------------
+Image Path: /scratch/user/ahphand/flickr30k_images/flickr30k_images/3232742853.jpg
+Ground Truth Caption: a man sings with his band up on stage at an event or concert late at night.
+Predicted Caption: a man sings with his band up on stage at an event or concert late at night.
+--------------------------------------------------
+Image Path: /scratch/user/ahphand/flickr30k_images/flickr30k_images/4552725875.jpg
+Ground Truth Caption: a paramedic is looking towards a firetruck as he stands in some small bushes.
+Predicted Caption: a paramedic is looking towards a firetruck as he stands in some small bushes.
+--------------------------------------------------
+Image Path: /scratch/user/ahphand/flickr30k_images/flickr30k_images/2572812372.jpg
+Ground Truth Caption: a young child in red pants walks while three people look on.
+Predicted Caption: a young child in red pants walks while three people look on.
+--------------------------------------------------
+Image Path: /scratch/user/ahphand/flickr30k_images/flickr30k_images/3157847991.jpg
+Ground Truth Caption: two men are standing by a railing, while posing for a picture.
+Predicted Caption: two men are standing by a railing, while posing for a picture.
+--------------------------------------------------
+Image Path: /scratch/user/ahphand/flickr30k_images/flickr30k_images/4845758265.jpg
+Ground Truth Caption: a woman is stand in the middling of a circular floor with numbers around the edge
+Predicted Caption: a woman is stand in the middling of a circular floor with numbers around the edge
+--------------------------------------------------
+Image Path: /scratch/user/ahphand/flickr30k_images/flickr30k_images/1452564679.jpg
+Ground Truth Caption: a man in an orange shirt looks at an orange object with decals on it.
+Predicted Caption: a man in an orange shirt looks at an orange object with decals on it.
+--------------------------------------------------
+Image Path: /scratch/user/ahphand/flickr30k_images/flickr30k_images/3070836317.jpg
+Ground Truth Caption: woman reading letters in great window light.
+Predicted Caption: woman reading letters in great window light.
+--------------------------------------------------
+Image Path: /scratch/user/ahphand/flickr30k_images/flickr30k_images/4614358086.jpg
+Ground Truth Caption: a policeman watches a crowd of prop 16 protesters march down the street.
+Predicted Caption: a policeman watches a crowd of prop 16 protesters march down the street.
+--------------------------------------------------
